@@ -16,7 +16,8 @@
 - Reordenação de lista de Games.
 
 ## Demonstração  
-
+- **Diagrama**: 
+<img src="docs/gamelist.png" alt="Logo do Projeto" width="200">
 
 ---
 
