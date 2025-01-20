@@ -20,12 +20,7 @@
 
 ---
 
-## Instalação  
-### Requisitos  
-- JDK 17
-- <!-- Liste os requisitos para rodar o projeto, como versões de linguagens, banco de dados, etc. -->
-
-1. import.sql
+## import.sql (Carga Inicial da API)
    ```bash
    INSERT INTO tb_game_list (name) VALUES ('Aventura e RPG');
    INSERT INTO tb_game_list (name) VALUES ('Jogos de plataforma');
